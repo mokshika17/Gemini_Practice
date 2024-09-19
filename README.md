@@ -1,2 +1,1 @@
-# Gemini_Practive
- 
+# End-To-End-Gemini-Project
